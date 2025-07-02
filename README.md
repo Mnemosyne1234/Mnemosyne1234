@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hello, miso's world! (✋ˊᵕˋ✋)
 
-<!--
-**Mnemosyne1234/Mnemosyne1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요!  
+백엔드 개발자를 꿈꾸는 **스마일(ฅ՞ ❛‿˂̵ ՞ ✧)** 입니다.  
 
-Here are some ideas to get you started:
+제 깃허브를 찾아낸 당신,  
+행운아군요! ✨  
+(๑•̀ㅂ•́)و♡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+- **이름**: 최미소  
+- **목표**: 안정적이고 확장성 있는 백엔드 시스템 설계 및 운영  
+- **현재 공부 중**:  
+  - 분산 시스템 (Kafka)  
+  - 마이크로서비스 (Docker · Kubernetes)  
+  - 클라우드 인프라 (AWS)
+
+---
+
+## 🛠️ Tech Stack
+| 분야            | 기술 / 도구               |
+| --------------- | ------------------------- |
+| 프로그래밍 언어 | Java · Python · C++       |
+| 웹 프레임워크   | Spring Boot               |
+| 데이터베이스    | MySQL                     |
+| 메시징 큐       | Kafka                     |
+| 컨테이너 & 오케스트레이션 | Docker · Kubernetes |
+| CI/CD           | GitHub Actions            |
+| 클라우드        | AWS (EC2 · S3)            |
+
+---
+
+## ✨ 주요 프로젝트
+
+1. **드론-로버 연계 시스템 개발**  
+   - 실시간 드론 데이터 기반 로버 주행 제어  
+   - 저지연 무선 통신으로 안정적 송수신  
+   - 자율 주행 알고리즘 설계 및 구현  
+
+2. **경로 탐색 & 네트워크 최적화**  
+   - 드론 탐색 데이터로 최적 경로 산출  
+   - ML 기반 장애물 회피·실시간 재경로 설정  
+   - 네트워크 지연 최소화 프로토콜 개선  
+
+3. **Highly Reliable UART 통신 설계**  
+   - ECC-CRC 오류 검출·정정 기법 적용  
+   - 삼중 샘플링·원형 버퍼로 안정적 수신  
+   - Hrtimer 기반 인터럽트 최적화 (전송 속도 30%↑)
+
+---
+
+## 📚 학습 중인 것들  
+- 마이크로서비스 모델링  
+- Developing Cloud Native App  
+- DevOps
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: chlalth0501@gmail.com  
+
+---
+
+> 방문해 주셔서 감사합니다!  
+> 귀여운 백엔드 개발자 **스마일(미소)** 와 함께 성장해요! 😊  
+
