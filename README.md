@@ -74,7 +74,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnemosyne1234&show_icons=true&locale=en" alt="mnemosyne1234" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnemosyne1234&label=Profile%20views&color=0e75b6&style=flat" alt="mnemosyne1234" /> </p>
 
