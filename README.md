@@ -207,16 +207,6 @@ width="40" />
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mnemosyne1234&show_icons=true&locale=en" alt="mnemosyne1234" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mnemosyne1234&label=Profile%20views&color=0e75b6&style=flat" alt="mnemosyne1234" />
-</p>
-
----
-
 # ✨ Final Message
 
 > 공격을 이해해야 제대로 방어할 수 있다고 믿습니다.
