@@ -1,86 +1,227 @@
-# Welcome, miso's world! (✋ˊᵕˋ✋)
+# Welcome to Miso's Security World! 🛡️✨
 
 안녕하세요!  
-백엔드 개발자를 꿈꾸는 **스마일(ฅ՞ ❛‿˂̵ ՞ ✧)** 입니다.  
+끊임없이 탐지하고 분석하며 성장하는  
+보안관제 엔지니어를 꿈꾸는 **최미소**입니다. ( •̀ ω •́ )✧
 
-제 깃허브를 찾아낸 당신,  
-행운아군요! ✨  
-(๑•̀ㅂ•́)و♡
-
----
-
-## 💡 About Me
-- **이름**: 최미소  
-- **목표**: 안정적이고 확장성 있는 백엔드 시스템 설계 및 운영  
-- **현재 공부 중**:  
-  - 분산 시스템 (Kafka)  
-  - 마이크로서비스 (Docker · Kubernetes)  
-  - 클라우드 인프라 (AWS)
+제 GitHub를 방문해주셔서 감사합니다!  
+공격을 이해해야 제대로 방어할 수 있다고 믿으며,  
+직접 구축하고 분석하며 경험을 쌓고 있습니다 🔍
 
 ---
 
-## 🛠️ Tech Stack
-| 분야            | 기술 / 도구               |
-| --------------- | ------------------------- |
-| 프로그래밍 언어 | Java · Python · C++       |
-| 웹 프레임워크   | Spring Boot               |
-| 데이터베이스    | MySQL                     |
-| 메시징 큐       | Kafka                     |
-| 컨테이너 & 오케스트레이션 | Docker · Kubernetes |
-| CI/CD           | GitHub Actions            |
-| 클라우드        | AWS (EC2 · S3)            |
+# 💡 About Me
 
+- 👩‍💻 이름 : 최미소 (Miso Choi)
+- 🎓 전공 : 경북대학교 전자공학부
+- 🛡️ 목표 :
+  - 보안 이벤트 분석 및 침해 대응 역량 강화
+  - 신뢰성 높은 보안 탐지 시스템 구축
+  - AI 기반 보안 분석 기술까지 확장
+- 📚 현재 학습 중 :
+  - SOC 구축 및 고도화
+  - 네트워크 · 시스템 보안
+  - 침해사고 분석 및 로그 기반 탐지
+  - AI · LLM · LangChain
+
+---
+
+# 🔥 Strength
+
+### ✔ 문제 해결 추진력
+문제가 발생하면 원인을 추측하지 않고  
+직접 실험하고 검증하며 해결합니다.
+
+### ✔ 로그 기반 분석 능력
+단순 탐지가 아닌  
+원인 분석과 정·오탐 판별에 집중합니다.
+
+### ✔ 협업 및 기록화
+Git · Notion · 블로그 기록화를 통해  
+협업 효율과 프로젝트 생산성을 높였습니다.
+
+---
+
+# 🛠️ Tech Stack
+
+| 분야 | 기술 / 도구 |
+| --- | --- |
+| Language | C++ · Python · Java |
+| Security | Wazuh · ELK · Wireshark · Nmap |
+| Infra | Linux · Docker · Kubernetes · AWS |
+| Backend | Spring Boot · FastAPI |
+| Database | MySQL |
+| Collaboration | Git · GitHub · Notion |
+| AI | TensorFlow · PyTorch · LangChain |
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p align="left">
 
----
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
-## ✨ 주요 프로젝트
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
 
-1. **드론-로버 연계 시스템 개발**  
-   - 실시간 드론 데이터 기반 로버 주행 제어  
-   - 저지연 무선 통신으로 안정적 송수신  
-   - 자율 주행 알고리즘 설계 및 구현  
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
 
-2. **"걷다가 서제" 도서 플랫폼 개발**
-   - 팀 R&R 정립 및 MSA 기반 협업 환경(레포지토리·CI) 설계
-   - EDA 분석, FastAPI API 게이트웨이와 React 프론트엔드 핵심 기능 구현
-   - Kubernetes 컨테이너 배포·GitHub Actions CI/CD 자동화로 안정적 운영 체계 구축 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
 
-3. **Highly Reliable UART 통신 설계**  
-   - ECC-CRC 오류 검출·정정 기법 적용  
-   - 삼중 샘플링·원형 버퍼로 안정적 수신  
-   - Hrtimer 기반 인터럽트 최적화 (전송 속도 30%↑)
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
----
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 
-## 📚 학습 중인 것들  
-- 마이크로서비스 모델링  
-- Developing Cloud Native App  
-- DevOps
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
 
----
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
 
-## 📫 Contact Me
-- ✉️ Email: chlalth0501@gmail.com  
-- 📸 instagram: i_m_iso_
-<p align="left"><a href="https://instagram.com/i_m_iso_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_iso_" height="30" width="40" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
 
+# 🚨 Security Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnemosyne1234&show_icons=true&locale=en" alt="mnemosyne1234" /></p>
+## 1️⃣ SOC 구축 및 공격 탐지 프로젝트
 
+- Wazuh · ELK 기반 SOC 환경 구축
+- 공격 로그 수집 및 시각화
+- 웹 취약점 공격 재현 및 탐지 분석
+- 정찰 → 침투 → 내부 탐색 흐름 분석
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnemosyne1234&label=Profile%20views&color=0e75b6&style=flat" alt="mnemosyne1234" /> </p>
+### 주요 공격 실습
+- SQL Injection
+- Command Injection
+- Hydra Brute Force
+- ARP Spoofing
+- IP Spoofing
 
+---
 
+## 2️⃣ 드론-로버 연계 시스템 개발
 
+- 실시간 드론 데이터 기반 로버 제어
+- ROS 기반 자율주행 시스템 설계
+- PN Guidance · PID 제어 적용
+- 네트워크 지연 개선으로 수행 시간 단축
 
+### 성과
+- 궤적 오차 1m 이내 감소
+- 미션 수행 시간 약 30% 개선
 
-> 방문해 주셔서 감사합니다!  
-> 귀여운 백엔드 개발자인인 **스마일(미소)** 와 함께 성장해qhkdy! 😊  
+---
 
+## 3️⃣ Highly Reliable UART 통신 설계
+
+- ECC · CRC 기반 오류 검출 및 정정
+- Triple Sampling 적용
+- Circular Buffer 기반 안정적 송수신 구현
+- 데이터 오류율 90% 이상 감소
+
+---
+
+# 📚 Study & Research
+
+### Security
+- 네트워크 공격 분석
+- 시스템 로그 분석
+- 침해사고 대응 프로세스 학습
+
+### AI
+- Transformer
+- RNN · LSTM
+- LLM
+- LangChain
+- NLP
+
+### Infra
+- Docker
+- Kubernetes
+- AWS
+- Cloud Native Architecture
+
+---
+
+# 🏆 Experience
+
+| 활동 | 내용 |
+| --- | --- |
+| KISIA 시큐리티 아카데미 | 리눅스 · 네트워크 보안 실습 |
+| 황금방패 프로젝트 | SOC 구축 및 고도화 |
+| KT AIVLE School | AI · 데이터 기반 프로젝트 수행 |
+| 전자공학부 버디 | 교환학생 학사생활 지원 |
+| AI 기반 스마트 양봉 플랫폼 | 팀 프로젝트 수행 |
+
+---
+
+# 📫 Contact Me
+
+- ✉️ Email : `chlalth0501@gmail.com`
+- 📸 Instagram : `@i_m_iso_`
+
+<p align="left">
+<a href="https://instagram.com/i_m_iso_" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="i_m_iso_"
+height="30"
+width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mnemosyne1234&show_icons=true&locale=en" alt="mnemosyne1234" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mnemosyne1234&label=Profile%20views&color=0e75b6&style=flat" alt="mnemosyne1234" />
+</p>
+
+---
+
+# ✨ Final Message
+
+> 공격을 이해해야 제대로 방어할 수 있다고 믿습니다.
+>
+> 실습하고 기록하며 성장하는  
+> 보안 엔지니어 최미소였습니다 🛡️
+
+감사합니다! ✨
